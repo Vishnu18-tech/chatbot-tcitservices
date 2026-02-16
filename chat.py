@@ -148,7 +148,6 @@ Question:
     # Store in session memory
     memory.append(("User", query))
     memory.append(("Bot", answer))
-    print(f"Memory call - {memory}")
     return answer
 
 # ---------------------------
