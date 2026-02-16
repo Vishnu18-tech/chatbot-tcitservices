@@ -1,0 +1,4 @@
+sentence-transformers
+pinecone-client
+python-dotenv
+google-genai
